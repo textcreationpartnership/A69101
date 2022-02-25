@@ -1,0 +1,918 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Almanake and pronostication for the yeare of our lorde MCCCCC, and XXXVII]</title>
+            <author>Seyfridt, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1537</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69101</idno>
+            <idno type="STC">STC 513</idno>
+            <idno type="STC">ESTC S108916</idno>
+            <idno type="EEBO-CITATION">99844568</idno>
+            <idno type="PROQUEST">99844568</idno>
+            <idno type="VID">9393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 21:13 or 71:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Almanake and pronostication for the yeare of our lorde MCCCCC, and XXXVII]</title>
+                  <author>Seyfridt, George.</author>
+               </titleStmt>
+               <extent>1 sheet   </extent>
+               <publicationStmt>
+                  <publisher>Widow of C. Ruremond?,</publisher>
+                  <pubPlace>[Antwerp :</pubPlace>
+                  <date>[1537]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author, imprint and publication date from STC; title from Bosanquet.</note>
+                  <note>Bosanquet, E.F. Almanacks, p. 148, no. cxxxii.</note>
+                  <note>Formerly also STC 416 and STC 471.</note>
+                  <note>Identified as STC 416 on UMI microfilm reel 21.</note>
+                  <note>Imperfect; a fragment.</note>
+                  <note>Reproductions of the originals in the British Library and the Bodleian Library.</note>
+                  <note>Appears at reel 21 (British Library copy) and at reel 71 (Bodleian Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table">
+            <pb facs="tcp:9393:1" rendition="simple:additions"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>i<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>e</cell>
+                     <cell>The puri<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> of our lady</cell>
+                     <cell>ſcor<g ref="char:EOLunhyphen"/>piꝰ</cell>
+                     <cell>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>iii</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The laſt quarter a later day aboute .ix. a clock / before no<g ref="char:cmbAbbrStroke">̄</g>e / moyſt &amp; meately warm</cell>
+                  </row>
+                  <row>
+                     <cell>iiii</cell>
+                     <cell>G</cell>
+                     <cell>Sexageſima</cell>
+                     <cell>ſagit<g ref="char:EOLunhyphen"/>tariꝰ</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>v</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vi</cell>
+                     <cell>b</cell>
+                     <cell> </cell>
+                     <cell>capri<g ref="char:EOLunhyphen"/>cor</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vii</cell>
+                     <cell>c</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>viii</cell>
+                     <cell>d</cell>
+                     <cell>The ſun<g ref="char:cmbAbbrStroke">̄</g>e in pi<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                     </cell>
+                     <cell>aqua<g ref="char:EOLhyphen"/>rius</cell>
+                     <cell>7</cell>
+                     <cell>B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>e</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The new mone a ſatarday at .iii. a clocke before none / moyſt and froſte</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>Piſ<g ref="char:EOLunhyphen"/>ces</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xi</cell>
+                     <cell>G</cell>
+                     <cell>Quinquaſige</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xii</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>ari<g ref="char:EOLhyphen"/>es</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B</cell>
+                  </row>
+                  <row>
+                     <cell>xiii</cell>
+                     <cell>b</cell>
+                     <cell>Shrouetyde</cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xiiii</cell>
+                     <cell>c</cell>
+                     <cell>Aſſhe weniſd.</cell>
+                     <cell>tau<g ref="char:EOLunhyphen"/>rus</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>d</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The fyrſte quarter a fridaye aboute .xi. a clocke at after none / cold and wyndy.</cell>
+                  </row>
+                  <row>
+                     <cell>xvi</cell>
+                     <cell>e</cell>
+                     <cell>Juliane virgy.</cell>
+                     <cell>Ge<g ref="char:EOLunhyphen"/>mi<g ref="char:EOLhyphen"/>ni.</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xvii</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xviii</cell>
+                     <cell>G</cell>
+                     <cell>The .i. ſunday of lent</cell>
+                     <cell> </cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xix</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>can<g ref="char:EOLunhyphen"/>cer</cell>
+                     <cell>10</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xx</cell>
+                     <cell>b</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell>‡ B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xxi</cell>
+                     <cell>c</cell>
+                     <cell>Imbre dayes</cell>
+                     <cell>leo</cell>
+                     <cell>5</cell>
+                     <cell>B</cell>
+                  </row>
+                  <row>
+                     <cell>xxii</cell>
+                     <cell>d</cell>
+                     <cell>Cathe. ſ. petri</cell>
+                     <cell>leo</cell>
+                     <cell>16</cell>
+                     <cell>B</cell>
+                  </row>
+                  <row>
+                     <cell>xxiii</cell>
+                     <cell>e</cell>
+                     <cell> </cell>
+                     <cell>leo</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxiiii</cell>
+                     <cell>f</cell>
+                     <cell>Mathy the apo</cell>
+                     <cell>vir<g ref="char:EOLunhyphen"/>go.</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The full mone a ſundaye at .i. a. clocke be<g ref="char:EOLunhyphen"/>fore none / moyſt.</cell>
+                  </row>
+                  <row>
+                     <cell>xxv</cell>
+                     <cell>G</cell>
+                     <cell>The .ij.ſunday of lent.</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxvi</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>libr.</cell>
+                     <cell>4</cell>
+                     <cell>‡ B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xxvii</cell>
+                     <cell>b</cell>
+                     <cell> </cell>
+                     <cell>lib.</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xxviii</cell>
+                     <cell>c</cell>
+                     <cell>Oſwalde byſ</cell>
+                     <cell>lib.</cell>
+                     <cell>28</cell>
+                     <cell>‡ B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>i</cell>
+                     <cell>G</cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ye</cell>
+                     <cell>ſag.</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ij</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>cap.</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The laſt quater a theuſdaye aboute .vij. a clocke / before none colde and moyſt.</cell>
+                  </row>
+                  <row>
+                     <cell>iij</cell>
+                     <cell>b</cell>
+                     <cell> </cell>
+                     <cell>capri.</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>iiij</cell>
+                     <cell>c</cell>
+                     <cell>S. Ambroſe</cell>
+                     <cell>aq.</cell>
+                     <cell>10</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B S ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>v</cell>
+                     <cell>d</cell>
+                     <cell> </cell>
+                     <cell>aq.</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vj</cell>
+                     <cell>e</cell>
+                     <cell>Saynt Sixtus</cell>
+                     <cell>piſ.</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vij</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>piſ.</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>viij</cell>
+                     <cell>G</cell>
+                     <cell>Lowe ſu<g ref="char:cmbAbbrStroke">̄</g>daye</cell>
+                     <cell>ari.</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The new mone a mondaye aboure .x. a clocke at after none / wyndi.</cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>ari.</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>b</cell>
+                     <cell>The ſu<g ref="char:cmbAbbrStroke">̄</g>ne in tau.</cell>
+                     <cell>tau.</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xj</cell>
+                     <cell>c</cell>
+                     <cell> </cell>
+                     <cell>tau.</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xij</cell>
+                     <cell>d</cell>
+                     <cell> </cell>
+                     <cell>gem.</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xiij</cell>
+                     <cell>e</cell>
+                     <cell>Saynt Juli<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>na</cell>
+                     <cell>gem.</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xiiij</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>can.</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>G</cell>
+                     <cell>The .iij. ſu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>day after <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſter</cell>
+                     <cell>can.</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xvj</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>can.</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The fyrſt quarter a <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>heuſday about .vij. a clocke before none variable &amp; wyndi</cell>
+                  </row>
+                  <row>
+                     <cell>xvij</cell>
+                     <cell>b</cell>
+                     <cell>S. Anicete</cell>
+                     <cell>leo.</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xviij</cell>
+                     <cell>c</cell>
+                     <cell>S. Eleuther</cell>
+                     <cell>leo.</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xix</cell>
+                     <cell>d</cell>
+                     <cell> </cell>
+                     <cell>vir.</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xx</cell>
+                     <cell>e</cell>
+                     <cell>Saynt Victor</cell>
+                     <cell>vir.</cell>
+                     <cell>16</cell>
+                     <cell>S</cell>
+                  </row>
+                  <row>
+                     <cell>xxj</cell>
+                     <cell>f</cell>
+                     <cell>S. Symeo<g ref="char:cmbAbbrStroke">̄</g> biſ.</cell>
+                     <cell>vir.</cell>
+                     <cell>28</cell>
+                     <cell>S</cell>
+                  </row>
+                  <row>
+                     <cell>xxij</cell>
+                     <cell>G</cell>
+                     <cell>The .iiij. ſu<g ref="char:cmbAbbrStroke">̄</g>day</cell>
+                     <cell>lib.</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxiij</cell>
+                     <cell>a</cell>
+                     <cell>S. George m<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>lib.</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxiiij</cell>
+                     <cell>b</cell>
+                     <cell>S. wilfride byſ.</cell>
+                     <cell>ſcor.</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The full mone a we<g ref="char:cmbAbbrStroke">̄</g>n<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſday at .viij. a cloc<g ref="char:EOLhyphen"/>ke before none / moyſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and wyndi</cell>
+                  </row>
+                  <row>
+                     <cell>xxv</cell>
+                     <cell>c</cell>
+                     <cell>S. Mar<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ua.</cell>
+                     <cell>ſcor.</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxvj</cell>
+                     <cell>d</cell>
+                     <cell>Saynt Clet<gap reason="illegible" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>ſcor.</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxvij</cell>
+                     <cell>e</cell>
+                     <cell>S. Anaſtaſ<gap reason="illegible" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.</cell>
+                     <cell>ſag.</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxviij</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>ſag.</cell>
+                     <cell>25</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B</cell>
+                  </row>
+                  <row>
+                     <cell>xxix</cell>
+                     <cell>G</cell>
+                     <cell>The .v. ſunday</cell>
+                     <cell>capri.</cell>
+                     <cell>9</cell>
+                     <cell>S</cell>
+                  </row>
+                  <row>
+                     <cell>xxx</cell>
+                     <cell>a</cell>
+                     <cell>S. Erke<g ref="char:cmbAbbrStroke">̄</g>walde</cell>
+                     <cell>capri.</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>j</cell>
+                     <cell>e</cell>
+                     <cell>Nicomede m<g ref="char:cmbAbbrStroke">̄</g>.</cell>
+                     <cell>ari.</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B</cell>
+                  </row>
+                  <row>
+                     <cell>ij</cell>
+                     <cell>f</cell>
+                     <cell>Marcellyne</cell>
+                     <cell>ari.</cell>
+                     <cell>14.</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B</cell>
+                  </row>
+                  <row>
+                     <cell>iij</cell>
+                     <cell>G</cell>
+                     <cell>The firſt ſu<g ref="char:cmbAbbrStroke">̄</g>day</cell>
+                     <cell>ari.</cell>
+                     <cell>29</cell>
+                     <cell>⚹ B</cell>
+                  </row>
+                  <row>
+                     <cell>iiij</cell>
+                     <cell>a</cell>
+                     <cell>(after trini. ſun.</cell>
+                     <cell>tau.</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>v</cell>
+                     <cell>b</cell>
+                     <cell>S. Boniface</cell>
+                     <cell>tau.</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vj</cell>
+                     <cell>c</cell>
+                     <cell>Mello<g ref="char:cmbAbbrStroke">̄</g> archbyſ.</cell>
+                     <cell>gem.</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The new mone a thurſdaye aboute .iij. a clocke at after none wyndi &amp; variable.</cell>
+                  </row>
+                  <row>
+                     <cell>vij</cell>
+                     <cell>d</cell>
+                     <cell>Tra<g ref="char:cmbAbbrStroke">̄</g>ſ. of .ſ. wulſt.</cell>
+                     <cell>gem.</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xiij</cell>
+                     <cell>e</cell>
+                     <cell>Medar. &amp; <abbr>gild</abbr>.</cell>
+                     <cell>can.+cer.</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>f</cell>
+                     <cell>Tra<g ref="char:cmbAbbrStroke">̄</g>ſ. of .ſ. edmu<g ref="char:cmbAbbrStroke">̄</g>
+                     </cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>G</cell>
+                     <cell>The. ij ſunday</cell>
+                     <cell>leo.</cell>
+                     <cell>0</cell>
+                     <cell>B</cell>
+                  </row>
+                  <row>
+                     <cell>xj</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>leo.</cell>
+                     <cell>12</cell>
+                     <cell>B</cell>
+                  </row>
+                  <row>
+                     <cell>xij</cell>
+                     <cell>b</cell>
+                     <cell>The ſunne in ca<g ref="char:cmbAbbrStroke">̄</g>
+                     </cell>
+                     <cell>leo.</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xiii</cell>
+                     <cell>c</cell>
+                     <cell> </cell>
+                     <cell>vir.</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xiiij</cell>
+                     <cell>d</cell>
+                     <cell>Baſyl byſhop</cell>
+                     <cell>vir.</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The fyrſt quarter a frydaye aboute .v. a clocke at after none / moyſte and wyndi</cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>e</cell>
+                     <cell>Uite / modeſte</cell>
+                     <cell>lib.</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xvi</cell>
+                     <cell>f</cell>
+                     <cell>S. Rycharde</cell>
+                     <cell>lib.</cell>
+                     <cell>14</cell>
+                     <cell>‡ B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xvii</cell>
+                     <cell>G</cell>
+                     <cell>The .iij. ſunday</cell>
+                     <cell>lib.</cell>
+                     <cell>26</cell>
+                     <cell>‡ B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xviij</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>ſcor.</cell>
+                     <cell>8</cell>
+                     <cell>B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xix</cell>
+                     <cell>b</cell>
+                     <cell> </cell>
+                     <cell>ſcor.</cell>
+                     <cell>21.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xx</cell>
+                     <cell>c</cell>
+                     <cell>Tra<g ref="char:cmbAbbrStroke">̄</g>ſ. Edward</cell>
+                     <cell>ſag.</cell>
+                     <cell>4.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxj</cell>
+                     <cell>d</cell>
+                     <cell>walburge vir.</cell>
+                     <cell>ſag.</cell>
+                     <cell>17.</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B</cell>
+                  </row>
+                  <row>
+                     <cell>xxji</cell>
+                     <cell>e</cell>
+                     <cell>Albone martyr</cell>
+                     <cell>capri.</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The full mone a ſaterdaye at .v. a. clocke<g ref="char:EOLhyphen"/>fore none / reyen / wynde / &amp; great tempeſt</cell>
+                  </row>
+                  <row>
+                     <cell>xxiii</cell>
+                     <cell>f</cell>
+                     <cell>S. Andrey</cell>
+                     <cell>capri.</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxiiii</cell>
+                     <cell>G</cell>
+                     <cell>Natiui. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oh.</cell>
+                     <cell>capri.</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxv</cell>
+                     <cell>a</cell>
+                     <cell>Tranſ. Elegii</cell>
+                     <cell>aq.</cell>
+                     <cell>13</cell>
+                     <cell>‡ B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell>xxvi</cell>
+                     <cell>b</cell>
+                     <cell>John &amp; Paule</cell>
+                     <cell>aq.</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxvij</cell>
+                     <cell>c</cell>
+                     <cell>S. Creſcens</cell>
+                     <cell>piſ.</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxviij</cell>
+                     <cell>d</cell>
+                     <cell>Leo pope</cell>
+                     <cell>piſ.</cell>
+                     <cell>27.</cell>
+                     <cell>
+                        <g ref="char:cross">✚</g> B ⚹</cell>
+                  </row>
+                  <row>
+                     <cell cols="6">The laſt quarter a frydaye aboute .ix. a clocke at after none / varyable.</cell>
+                  </row>
+                  <row>
+                     <cell>xxix</cell>
+                     <cell>e</cell>
+                     <cell>Peter &amp; paule</cell>
+                     <cell>ari.</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxx</cell>
+                     <cell>f</cell>
+                     <cell>Co<g ref="char:cmbAbbrStroke">̄</g>memo. paule</cell>
+                     <cell>ari.</cell>
+                     <cell>25</cell>
+                     <cell>‡ B</cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <signed>George ſeyfridt of S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
